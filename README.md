@@ -21,7 +21,8 @@ from eight cutting-edge cloud detection algorithms.
 
 <img src="https://user-images.githubusercontent.com/16768318/182013016-1bcafd76-1735-46f4-a157-4fd55135fb4d.png" />
 
-See a interactive version map [here](https://cloudsen12.github.io/map.html)!
+See a interactive version map [here](https://cloudsen12.github.io/map.html)!. More information in 
+[https://cloudsen12.github.io/](https://cloudsen12.github.io/)
 
 # Compare CloudSEN12 with other previous datasets.
 
