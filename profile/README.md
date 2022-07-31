@@ -11,7 +11,7 @@
 
 # Basic Overview 🙋‍♀️
 
-CloudSEN12 is a LARGE dataset (~1 TB) for cloud semantic understanding that consists of 49,400 image patches 
+CloudSEN12 is a **LARGE** dataset (~1 TB) for cloud semantic understanding comprising of **49,400** image patches 
 (IP) that are evenly spread throughout all continents except Antarctica. Each IP has an average size of 
 5090 x 5090 meters and contains data from Sentinel-2 optical levels 1C and 2A, Sentinel-1 Synthetic Aperture 
 Radar (SAR), digital elevation model, surface water occurrence, land cover classes, and cloud mask results 
