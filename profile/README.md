@@ -25,3 +25,18 @@ See an interactive map version [here](https://cloudsen12.github.io/map.html)!. V
 # Compare CloudSEN12 with other previous datasets. 🧙
 
 <img src="https://user-images.githubusercontent.com/16768318/182013045-52c27be9-ecb2-4b42-a009-98bd0aea6784.png" width=600px/>
+
+
+- See our paper [here](TODO).
+
+- See cloudSEN12 website [here](https://cloudsen12.github.io/).
+
+- See cloudSEN12 in Zenodo [here](https://zenodo.org/record/7034410).
+
+- See cloudSEN12 in Google Drive [here](https://drive.google.com/drive/folders/1H_Qxy1yX6moqFbKc3Ajn4FFrHlDhYuz3).
+
+- See cloudSEN12 in GitHub [here](https://github.com/cloudsen12).
+
+- See cloudSEN12 in Google Earth Engine [here]().
+
+- See CloudApp [here](https://csaybar.users.earthengine.app/view/cloudapp).
